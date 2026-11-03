@@ -1,5 +1,5 @@
 # Proyecto 2 - Bases de Datos Avanzadas
-## Migración Relacional a NoSQL y Analítica con MongoDB 
+## Migración Relacional a NoSQL y Consultas con MongoDB 
 
 ### Integrantes:
 - **377043** – Angel Rodriguez Palomino
