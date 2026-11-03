@@ -54,7 +54,7 @@ Toda la lógica pesada se ejecuta directamente en el motor de MongoDB mediante p
 ---
 
 ## Interfaz de Usuario
-La interfaz está construida con **CustomTkinter** y `ttk.Treeview`, proporcionando una experiencia visual fluida y adaptativa que cambia automáticamente según el tipo de resultado que devuelve MongoDB.
+La interfaz está construida con **CustomTkinter**, proporcionando una experiencia visual fluida y adaptativa que cambia automáticamente según el tipo de resultado que devuelve MongoDB.
 
 <img width="800" alt="Inspector de código Mongo y Zoom" src="https://iili.io/nPejZ0P.png" />
 
